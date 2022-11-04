@@ -850,11 +850,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Senac EAD - TI para Internet\\Módulo B\\UC07 - Documentar e realizar manutenção de aplicações web\\Atividade (Entregar)\\Atividade 1\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "D:\\Senac EAD - TI para Internet\\Módulo B\\UC07 - Documentar e realizar manutenção de aplicações web\\Atividade (Entregar)\\Atividade 2\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "D:\\Senac EAD - TI para Internet\\Módulo B\\UC07 - Documentar e realizar manutenção de aplicações web\\Atividade (Entregar)\\Atividade 1\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "D:\\Senac EAD - TI para Internet\\Módulo B\\UC07 - Documentar e realizar manutenção de aplicações web\\Atividade (Entregar)\\Atividade 2\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\Teobaldo PC\\.nuget\\packages\\",
-      "outputPath": "D:\\Senac EAD - TI para Internet\\Módulo B\\UC07 - Documentar e realizar manutenção de aplicações web\\Atividade (Entregar)\\Atividade 1\\Biblioteca\\obj\\",
+      "outputPath": "D:\\Senac EAD - TI para Internet\\Módulo B\\UC07 - Documentar e realizar manutenção de aplicações web\\Atividade (Entregar)\\Atividade 2\\Biblioteca\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Teobaldo PC\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,3 +1,4 @@
+using System.Runtime.InteropServices;
 using System.Linq;
 using System.Collections.Generic;
 using System.Collections;
@@ -22,6 +23,7 @@ namespace Biblioteca.Models
                 Livro livro = bc.Livros.Find(l.Id);
                 livro.Autor = l.Autor;
                 livro.Titulo = l.Titulo;
+                livro.Ano = l.Ano;
 
                 bc.SaveChanges();
             }
